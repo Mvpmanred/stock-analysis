@@ -18,3 +18,4 @@
 
 
 There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
+  Refactoring in VBA required coding structure skills, because we made tiny changes on some complex code would affect the outcomes in Excel sheets. And sometimes it would get an error messege or ask you to debug. The good thing is in VBA script, it would tell you quickly which line of code contains error such as when errors found in "conditionals" and "loop".
