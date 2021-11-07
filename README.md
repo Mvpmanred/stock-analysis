@@ -17,5 +17,4 @@
   In the VBA solution code, we edited and refacotred our code into a shorter term and made it more efficent. When refactoring code, we aren't adding new functionality. More efficient mean by taking fewer steps, using less memory, or improving the logic of the code to make it easier for users to read. Howerver, refactoring on at the first attempts won't be esay. It needs to take a few tries to commplish.
 
 
-There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
   Refactoring in VBA required coding structure skills, because we made tiny changes on some complex code would affect the outcomes in Excel sheets. And sometimes it would get an error messege or ask you to debug. The good thing is in VBA script, it would tell you quickly which line of code contains error such as when errors found in "conditionals" and "loop".
